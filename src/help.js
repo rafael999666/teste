@@ -35,7 +35,7 @@ const help = (prefix) => {
 ┣⊱ *${prefix}nsfwloli*
 ┣⊱ *${prefix}anime*
 ┣⊱ *${prefix}randomanime*
-┣⊱ *${prefix}randomhentai*
+┣⊱ *${prefix}hentai2*
 ┣⊱ *${prefix}nsfwloli*
 ┣⊱ *${prefix}nsfwblowjob*
 ┣⊱ *${prefix}nsfwneko*
